@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFAF0;
+  background-color: black;
 }
 
 
@@ -8,7 +8,7 @@ body {
   padding-left: 15px;
   border: black solid 1px;
   color: black;
-  font-size: 12px; 
+  font-size: 16px; 
   font-family: 'Raleway Dots';
   text-align: center;
 }
@@ -20,13 +20,14 @@ img {
   height: 150px;
   width: 150px;
   margin: 15px;
-  border: black solid 1px;
+  border: white solid 1px;
 }
 
 
 .title {
   text-align: left;
   font-size: 17px; 
+  color: white;
   font-family: 'Raleway Dots';
   position: relative;
     top: 18px;
@@ -35,6 +36,7 @@ img {
 .bullet {
   margin: 25px;
   font-size: 15px; 
+    color: white;
   font-family: 'Raleway Dots';
   position: relative;
     left: 15px;
@@ -44,11 +46,13 @@ img {
   font-size: 17px; 
   font-family: 'Raleway Dots';
   line-height: 50%;
+    color: white;
 }
 
 .list {
   font-size: 15px; 
   font-family: 'Raleway Dots';
+    color: white;
  
 }
 
@@ -56,6 +60,7 @@ img {
 .footer {
    font-size: 15px; 
   font-family: 'Raleway Dots';
+    color: white;
 }
 .fa-linkedin {
   background: #007bb5;
