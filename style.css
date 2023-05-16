@@ -9,7 +9,7 @@ body {
   border: black solid 1px;
   color: black;
   font-size: 16px; 
-  font-family: 'Raleway Dots';
+  font-family: Tahoma, sans-serif;
   text-align: center;
 }
 a:hover {
@@ -28,7 +28,7 @@ img {
   text-align: left;
   font-size: 17px; 
   color: white;
-  font-family: 'Raleway Dots';
+ font-family: Tahoma, sans-serif;
   position: relative;
     top: 18px;
 }
@@ -37,21 +37,21 @@ img {
   margin: 25px;
   font-size: 15px; 
     color: white;
-  font-family: 'Raleway Dots';
+  font-family: Tahoma, sans-serif;
   position: relative;
     left: 15px;
 }
 
 .experience {
   font-size: 17px; 
-  font-family: 'Raleway Dots';
+  font-family: Tahoma, sans-serif;
   line-height: 50%;
     color: white;
 }
 
 .list {
   font-size: 15px; 
-  font-family: 'Raleway Dots';
+font-family: Tahoma, sans-serif;
     color: white;
  
 }
@@ -59,7 +59,7 @@ img {
 
 .footer {
    font-size: 15px; 
-  font-family: 'Raleway Dots';
+  font-family: Tahoma, sans-serif;
     color: white;
 }
 .fa-linkedin {
