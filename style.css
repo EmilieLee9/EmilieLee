@@ -1,0 +1,22 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: green;
+  font-size: 24px; 
+  font-family: Arial, Hevetica, san-serif;
+}
+
+.header {
+  background-color: black; 
+  padding-left: 60px;
+}
+
+img {
+  width: 75%;
+}
+
+.footer {
+  background-color: white;
+}
