@@ -12,6 +12,9 @@ body {
   font-family: 'Raleway Dots';
   text-align: center;
 }
+a:hover {
+  background-color: #D2B48C;
+}
 
 img {
   height: 150px;
@@ -51,5 +54,25 @@ img {
 
 
 .footer {
-  background-color: white;
+   font-size: 15px; 
+  font-family: 'Raleway Dots';
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}.fa:hover {
+    opacity: 0.7;
+}
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 10px;
+  height: 12px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 1px;
+ 
+}
+.button-container-div {
+  text-align: center;
 }
