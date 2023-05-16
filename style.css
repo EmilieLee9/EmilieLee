@@ -1,20 +1,52 @@
 body {
-  background-color: beige;
+  background-color: #FFFAF0;
 }
 
-h1 {
-  color: green;
-  font-size: 24px; 
-  font-family: Arial, Hevetica, san-serif;
-}
 
 .header {
-  background-color: black; 
-  padding-left: 60px;
+  background-color: white; 
+  padding-left: 15px;
+  border: black solid 1px;
+  color: black;
+  font-size: 12px; 
+  font-family: 'Raleway Dots';
+  text-align: center;
 }
 
 img {
-  width: 75%;
+  height: 150px;
+  width: 150px;
+  margin: 15px;
+  border: black solid 1px;
+}
+
+
+.title {
+  text-align: left;
+  font-size: 17px; 
+  font-family: 'Raleway Dots';
+  position: relative;
+    top: 18px;
+}
+
+.bullet {
+  margin: 25px;
+  font-size: 15px; 
+  font-family: 'Raleway Dots';
+  position: relative;
+    left: 15px;
+}
+
+.experience {
+  font-size: 17px; 
+  font-family: 'Raleway Dots';
+  line-height: 50%;
+}
+
+.list {
+  font-size: 15px; 
+  font-family: 'Raleway Dots';
+  line-height: 80%;
 }
 
 .footer {
